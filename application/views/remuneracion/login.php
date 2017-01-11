@@ -8,7 +8,7 @@
         <meta name="description" content="remuneracion">
         <meta name="keywords" content="remuneracion">
 
-        <title>Sistema Remuneración</title>
+        <title>Sistema Remuneracion</title>
         <link rel="icon" type="image/png" href="<?= base_url(); ?>application/img/favicon.png" />
         <link href="<?= base_url(); ?>asset/vendors/bower_components/animate.css/animate.min.css" rel="stylesheet">
         <link href="<?= base_url(); ?>asset/vendors/bower_components/material-design-iconic-font/dist/css/material-design-iconic-font.min.css" rel="stylesheet">
