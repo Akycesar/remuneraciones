@@ -5,8 +5,8 @@
         <meta name="format-detection" content="telephone=no">
         <meta charset="UTF-8">
 
-        <meta name="description" content="SuperFlat Responsive Admin Template">
-        <meta name="keywords" content="SuperFlat Admin, Admin, Template, Bootstrap">
+        <meta name="description" content="remuneracion">
+        <meta name="keywords" content="remuneracion">
 
         <title>Sistema Remuneración</title>
         <link rel="icon" type="image/png" href="<?= base_url(); ?>application/img/favicon.png" />
